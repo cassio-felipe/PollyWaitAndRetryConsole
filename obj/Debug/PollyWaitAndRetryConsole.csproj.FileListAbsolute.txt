@@ -1,0 +1,10 @@
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/bin/Debug/PollyWaitAndRetryConsole.exe
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/bin/Debug/PollyWaitAndRetryConsole.pdb
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/bin/Debug/Polly.dll
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/bin/Debug/Polly.pdb
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/bin/Debug/Polly.xml
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/obj/Debug/PollyWaitAndRetryConsole.csprojAssemblyReference.cache
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/obj/Debug/PollyWaitAndRetryConsole.csproj.CoreCompileInputs.cache
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/obj/Debug/PollyWaitAndRetryConsole.csproj.CopyComplete
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/obj/Debug/PollyWaitAndRetryConsole.exe
+/Users/cassiofelipe/Projects/PollyWaitAndRetryConsole/obj/Debug/PollyWaitAndRetryConsole.pdb
